@@ -5,6 +5,9 @@ Pon tu logo en la pantalla
 -Crear el archivo .gif y en el archivo .html cambia el .png a .gif
 
 # Copyright by InspectorMapache - 2021
+# Discord
+https://discord.gg/pvHVVshakp
+
 
 -╭━━╮╱╱╱╱╱╱╱╱╱╱╱╱╱╱╭╮╱╱╱╱╱╭━╮╭━╮╱╱╱╱╱╱╱╱╱╱╱╭╮
 -╰┫┣╯╱╱╱╱╱╱╱╱╱╱╱╱╱╭╯╰╮╱╱╱╱┃┃╰╯┃┃╱╱╱╱╱╱╱╱╱╱╱┃┃
@@ -15,5 +18,3 @@ Pon tu logo en la pantalla
 -╱╱╱╱╱╱╱╱╱┃┃╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱┃┃
 -╱╱╱╱╱╱╱╱╱╰╯╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╰╯
 
-#Discord
-https://discord.gg/pvHVVshakp
