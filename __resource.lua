@@ -10,4 +10,4 @@ client_scripts {
 	'client.lua'
 }
 
-ui_page('mapache_logo/html/index.html')
+ui_page({'html/index.html'})
