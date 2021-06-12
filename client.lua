@@ -6,6 +6,12 @@ AddEventHandler('onClientMapStart', function()
   end)
 end)
 
+print("###############################################")
+print("mapache_logo")
+print("Autor InspectorMapache")
+print("Discord: https://discord.gg/pvHVVshakp")
+print("###############################################")
+
 --╭━━╮╱╱╱╱╱╱╱╱╱╱╱╱╱╱╭╮╱╱╱╱╱╭━╮╭━╮╱╱╱╱╱╱╱╱╱╱╱╭╮
 --╰┫┣╯╱╱╱╱╱╱╱╱╱╱╱╱╱╭╯╰╮╱╱╱╱┃┃╰╯┃┃╱╱╱╱╱╱╱╱╱╱╱┃┃
 --╱┃┃╭━╮╭━━┳━━┳━━┳━┻╮╭╋━━┳━┫╭╮╭╮┣━━┳━━┳━━┳━━┫╰━┳━━╮
