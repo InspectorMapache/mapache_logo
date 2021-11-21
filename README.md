@@ -6,7 +6,7 @@ Pon tu logo en la pantalla
 
 # Copyright by InspectorMapache - 2021
 # Discord
-https://discord.gg/pvHVVshakp
+https://discord.gg/HrRnk6WHzZ
 
 
 -╭━━╮╱╱╱╱╱╱╱╱╱╱╱╱╱╱╭╮╱╱╱╱╱╭━╮╭━╮╱╱╱╱╱╱╱╱╱╱╱╭╮
